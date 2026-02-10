@@ -38,7 +38,7 @@ FAR-Net introduces several significant enhancements compared to the original Spe
 ![pic2](pic2.png)
 
 *Figure 2: Visual comparison of FAR-Net results on different underwater scenes.*
-
+---
 ### Quantitative Results
 
 #### LSUI Dataset
