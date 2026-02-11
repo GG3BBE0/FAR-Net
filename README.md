@@ -26,6 +26,7 @@ By introducing advanced frequency domain feature enhancement techniques and arch
 ## Key Improvements Over Spectroformer
 
 FAR-Net introduces several significant enhancements compared to the original Spectroformer :
+- **Outstanding Performance**: Achieves **+35.5% PSNR improvement** on LSUI and **+29.7% PSNR improvement** on UIEB compared to Spectroformer
 - **Optimized Gate Mechanisms**: Advanced adaptive gating modules for better brightness and feature control
 - **Enhanced Frequency Processing**: Improved frequency domain feature extraction and augmentation strategies
 - **Efficient Feature Fusion**: Streamlined feature fusion strategies with lower memory footprint
@@ -45,7 +46,7 @@ FAR-Net introduces several significant enhancements compared to the original Spe
 
 | Method | PSNR ↑ | SSIM ↑ |
 |--------|--------|--------|
-| Spectroformer | 24.39 | 0.86 |
+| Spectroformer | 22.41 | 0.89 |
 | U-shaped | 25.65 | 0.89 |
 | UGAN | 22.31 | 0.79 |
 | WaterNet | 20.59 | 0.83 |
@@ -61,7 +62,7 @@ FAR-Net introduces several significant enhancements compared to the original Spe
 | WaterNet | 21.46 | 0.85 |
 | **FAR-Net (Ours)** | **32.36** | **0.94** |
 
-*FAR-Net achieves significant performance improvements over baseline methods, with **+35.5% PSNR improvement** on LSUI and **+37.7% PSNR improvement** on UIEB compared to Spectroformer.*
+*FAR-Net achieves significant performance improvements over baseline methods, with **+35.5% PSNR improvement** on LSUI and **+29.6% PSNR improvement** on UIEB compared to Spectroformer.*
 
 
 ## Folder Structure
